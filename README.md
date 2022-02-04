@@ -55,3 +55,4 @@ True
 ['–', 'va !', '–', 'allons !', 'allez !', '–']
 ['–', 'ois allé(e) !', '–', 'oyons allé(e)s !', 'oyez allé(e)(s) !', '–']
 ```
+Which is the same as in: https://www.wordreference.com/conj/FrVerbs.aspx?v=va
